@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: none
-  productName: VR_2026
+  productName: Practica4_HernandezDana
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -144,6 +144,7 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 34d52da48c2378d4ab00ae46ab295243, type: 2}
+  - {fileID: -944628639613478452, guid: e003e9d736a376f4baf5cb93b5b73fba, type: 3}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -164,7 +165,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Hernandez.Practica2_Dana
+    Android: com.Hernandez.Practica4_Dana
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -859,7 +860,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 7e9b7ce7-8814-47b1-90fc-1b2e558b7c40
   framebufferDepthMemorylessMode: 0
